@@ -1,0 +1,2 @@
+model_checkpoint_path: "pingpong_saved.cpkt"
+all_model_checkpoint_paths: "pingpong_saved.cpkt"
